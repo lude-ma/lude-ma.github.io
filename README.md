@@ -1,2 +1,2 @@
 # lude-ma.github.io
-My github pages repository.
+lude-ma's webpage.
