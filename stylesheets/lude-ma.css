@@ -101,7 +101,7 @@ section#image {
   position: relative;
   margin-left: 10px;
   margin-right: 10px;
-  width: 30%;
+  max-width: 30%;
 }
 
 section#about {
@@ -110,5 +110,5 @@ section#about {
   position: relative;
   margin-left: 10px;
   margin-right: 10px;
-  width: 70%;
+  max-width: 70%;
 }
