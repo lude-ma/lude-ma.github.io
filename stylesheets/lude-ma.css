@@ -95,11 +95,20 @@ p {
   margin-bottom: 1em;
 }
 
-section#image, section#about {
+section#image {
   display: inline;
   float: left;
   position: relative;
   margin-left: 10px;
   margin-right: 10px;
-  width: 350px;
+  width: 30%;
+}
+
+section#about {
+  display: inline;
+  float: left;
+  position: relative;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 70%;
 }
