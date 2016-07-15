@@ -105,9 +105,22 @@ a {
     font-size: 1rem; } }
 
 .main-content :first-child {
-  margin-top: 0; }
+  margin-top: 0; 
+  width: 700px;}
 .main-content img {
-  max-width: 30%; }
+  display: inline;
+  float: left;
+  position: relative;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 350px;}
+.main-content about {
+  display: inline;
+  float: left;
+  position: relative;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 350px}
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   margin-top: 2rem;
   margin-bottom: 1rem;
